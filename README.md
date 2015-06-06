@@ -4,7 +4,7 @@ Into React + Webpack
 
 
 # Installation
-  
+
     $ npm install
 
 
