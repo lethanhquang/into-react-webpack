@@ -1,1 +1,7 @@
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+
+# Ignore node module packages
 node_modules
+
+# Ignore all logfiles and tempfiles.
+.sass_cache/*
