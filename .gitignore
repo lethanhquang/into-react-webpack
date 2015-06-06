@@ -4,4 +4,4 @@
 node_modules
 
 # Ignore all logfiles and tempfiles.
-.sass_cache/*
+.sass-cache/*
