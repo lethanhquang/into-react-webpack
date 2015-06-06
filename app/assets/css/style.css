@@ -1,0 +1,15 @@
+/**
+ * require bootstrap
+ */
+@import url(bootstrap.css);
+
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+.jumbotron {
+  margin: 200px auto 0 auto;
+}
+
+/*# sourceMappingURL=style.css.map */
